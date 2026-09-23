@@ -1,0 +1,12 @@
+{
+  "name": "flight-booking-api",
+  "version": "1.0.0",
+  "description": "A mini project for flight ticket booking using Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
